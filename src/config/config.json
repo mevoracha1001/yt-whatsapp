@@ -1,0 +1,10 @@
+{
+    "name": "mevbot",
+    "filename": {
+        "mp3": "mevbot",
+        "mp4": "mevbot"
+    },
+    "prefix": "!",
+    "timezone": "America/New_York",
+    "groups": true
+}
